@@ -3,7 +3,7 @@
 ---
 <br>
 
-# Angry Crabby
+# [Angry Crabby](https://mondongogames.itch.io/angry-crabby)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 20px;">
 
@@ -11,9 +11,6 @@
   <div style="width: 45%; text-align: center;">
     <p style="display: block;">
         <img src="/media/angry_crabby.png" alt="cover" width="45%" />
-        <a href="https://mondongogames.itch.io/angry-crabby" style="font-size: 18px; font-weight: bold; display: block; margin-top: 10px;">
-            Haz clic aquí para más detalles
-        </a>
     </p>
   </div>
 
