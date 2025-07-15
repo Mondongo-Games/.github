@@ -10,7 +10,7 @@
   <!-- Parte izquierda: Imagen y enlace -->
   <div style="width: 45%; text-align: center;">
     <p style="display: block;">
-        <img src="/media/angry_crabby.png" alt="cover" width="45%" />
+        <img src="/media/angry_crabby.png" alt="cover" width="35%" />
     </p>
   </div>
 
