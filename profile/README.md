@@ -9,9 +9,9 @@
 
   <!-- Parte izquierda: Imagen y enlace -->
   <div style="width: 45%; text-align: center;">
-    <p style="display:block;">
+    <p style="display: block;">
         <img src="/media/angry_crabby.png" alt="cover" width="45%" />
-        <a href="https://mondongogames.itch.io/angry-crabby" style="font-size: 18px; font-weight: bold;">
+        <a href="https://mondongogames.itch.io/angry-crabby" style="font-size: 18px; font-weight: bold; display: block; margin-top: 10px;">
             Haz clic aquí para más detalles
         </a>
     </p>
